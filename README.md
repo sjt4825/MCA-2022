@@ -1,8 +1,15 @@
 # Week 1: Basics of Music Data
 \[Enter your responses to Week 1, tasks 2 and 3 here\]
 
+# Week 2
+For week 2 our task was to find a piece of music relating to our theme to download and convert to musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcibe the piece.
+
+I had diffculty finding a free score relating to my theme so I instead downloaded an image of a score preview on Google and converted it to a PDF using Microsoft Word.
+
+The transcription managed to mostly detect the correct notes but it also missed out some notes and added random dynamic markings that were not in the original score. The transcription did not manage to include any of the metadata such as the title and composer. The transcription also combined all 20 bars into only 4 bars. This occured as the software detected each 4 bars as a seperate piano part and joined it all onto 1 system.  I was unsure of how to rectify this so I created new bars then pasted sections of the transcription onto them. I then edited it to correct the rest of the transcription
+
 ## Dataset Theme
-For the theme of my dataset I have chosen the English rock band Muse.
+For the theme of my dataset I have chosen the English rock band Muse. 
 
 # Week 10
 A polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content.
