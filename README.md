@@ -15,9 +15,9 @@ For the theme of my dataset I have chosen the English rock band Muse.
 
 The task for week 4 was to make a jsymbolic analysis of my piece and then use python notebook to create a piano roll and histogram of the piece.
 
-![Piano roll](data/Week 4/Piano roll)
+![Piano roll](data/Week%204/Piano%20roll.png)
 
-![Pitch histogram](data/Week 4/Pitch Histogram)
+![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
 
 # Week 10
 A polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content.
