@@ -15,7 +15,11 @@ For the theme of my dataset I have chosen the English rock band Muse.
 
 The task for week 4 was to make a jsymbolic analysis of my piece and then use python notebook to create a piano roll and histogram of the piece.
 
+## Piano Roll
+
 ![Piano roll](data/Week%204/Piano%20roll.png)
+
+## Pitch Histogram
 
 ![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
 
