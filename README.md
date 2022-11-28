@@ -11,6 +11,10 @@ The transcription managed to mostly detect the correct notes but it also missed 
 ## Dataset Theme
 For the theme of my dataset I have chosen the English rock band Muse. 
 
+# Week 4
+
+The task for week 4 was to make a jsymbolic analysis of my piece and then use python notebook to create a piano roll and histogram of the piece.
+
 # Week 10
 A polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content.
 The original file has been transcribed into both the wrong key and time signature. The transcription is in 3 / 4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
