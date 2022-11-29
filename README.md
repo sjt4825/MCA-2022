@@ -29,6 +29,30 @@ Here is the [jsymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 
 ![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
 
+# Week 8
+
+For week 8 we had to pick 3 tracks relating to our theme. For each track, we had to make a table of metadata then create a spectrogram.
+
+With time frequency analysis it allows us to see a representation of how often each frequency is present in the recording, this can suggest which key the piece is in. Whereas with waveform based analysis it is a lot harder to pick out frequencies and they are not represented in a clear way, there is also no measure of how often each frequency occurs. We can see a representation of how prevalent each frequency and therefore note is.
+
+Time frequency depicts frequency a lot more clearly than wavefrom analysis. It also shows us a lot more useful information than a waveform does
+
+
+# Week 9
+
+For my 3 chosen tracks I chose a studio recording, a live concert recording and then an acoustic version of a song. The live concert recording has a lot of extra crowd noise which the studio recording of the first track does not have. The acoustic version has a lot less going on in it as it is only an electric guitar and a voice for the most part. COnsidering all this i would expect the histograms to be quite different to each other.
+
+### Track 1 Histogram
+![Track 1 histogram](data/Week%204/Pitch%20Histogram.png)
+
+### Track 2 Histogram
+![Track 2 histogram](data/Week%204/Pitch%20Histogram.png)
+
+### Track 3 Histogram
+![Track 3 histogram](data/Week%204/Pitch%20Histogram.png)
+
+The psycho and starlight histograms for the chromagram generally have a higher amplitude which is expected as they are electric instruments with the use of drums whereas the something human track si acoustic so does not have as wide of a range of frequencies and is not of great of an amplitude
+
 # Week 10
 For the first task we had to create a similarity matrix using python notebook for 3 tracks relating to our theme.
 
