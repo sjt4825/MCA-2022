@@ -1,7 +1,7 @@
 # Lab Portfolio
 
 # Week 1
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+
 
 ## Dataset Theme
 For the theme of my dataset I have chosen the English rock band Muse. 
