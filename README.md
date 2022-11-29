@@ -30,7 +30,13 @@ Here is the [jsymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 ![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
 
 # Week 10
-A polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content.
+For the first task we had to create a similarity matrix using python notebook for 3 tracks relating to our theme.
+
+### Similarity matrix
+
+![Similarity Matrix](data/Week%2010/week%2010%20similarity%20matrix.png)
+
+After this, a polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content.
 The original file has been transcribed into both the wrong key and time signature. The transcription is in 3 / 4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
 
 After these first 6 bars, the transcription improves as it vaguely follows the original piece. However, there are many incorrect notes as well as added and missing notes. In the original piece there are only 2 notes being played at one time, however, in the transcription, there are up to 5 notes being played at the same time. The rhythm in many parts is also incorrect. There are also multiple clefs in the middle of the bars. It also misses out the dynamics and pedal markings. The repeat lines from the original score are not preserved. Despite all this, the tempo is correct.
