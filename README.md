@@ -35,7 +35,7 @@ For week 8 we had to pick 3 tracks relating to our theme. For each track, we had
 
 ### Waveform and Spectrogram for Psycho
 
-![Psycho Waveform](data/Week 8/Psycho waveform.png)
+![Psycho Waveform](data/Week%208/Psycho%20waveform.png)
 
 With time frequency analysis it allows us to see a representation of how often each frequency is present in the recording, this can suggest which key the piece is in. Whereas with waveform based analysis it is a lot harder to pick out frequencies and they are not represented in a clear way, there is also no measure of how often each frequency occurs. We can see a representation of how prevalent each frequency and therefore note is.
 
