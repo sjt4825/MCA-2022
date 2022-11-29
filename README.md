@@ -13,7 +13,12 @@ I had diffculty finding a free score relating to my theme so I instead downloade
 
 The transcription managed to mostly detect the correct notes but it also missed out some notes and added random dynamic markings that were not in the original score. The transcription did not manage to include any of the metadata such as the title and composer. The transcription also combined all 20 bars into only 4 bars. This occured as the software detected each 4 bars as a seperate piano part and joined it all onto 1 system.  I was unsure of how to rectify this so I created new bars then pasted sections of the transcription onto them. I then edited it to correct the rest of the transcription
 
+# Week 3
 
+The task for week 3 was to export the week 2 score to MusicXML and MEI then compare the elements in each file
+
+The MusicXML file can be viewed [here]([https://github.com/sjt4825/MCA-2022/blob/master/data/Week%204/jsymbolic%20analysis.csv](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%203/Starlight.musicxml))
+The MEI file can be viewed [here]([https://github.com/sjt4825/MCA-2022/blob/master/data/Week%204/jsymbolic%20analysis.csv](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%203/Starlight%20corrected.mei))
 
 # Week 4
 
