@@ -17,6 +17,8 @@ The transcription managed to mostly detect the correct notes but it also missed 
 
 The task for week 4 was to make a jsymbolic analysis of my piece and then use python notebook to create a piano roll and histogram of the piece.
 
+Here is the jsymbolic analysis csv [jsymbolic analysis csv](data/Week%204/jsymbolic%20analysis.csv) 
+
 ### Piano Roll
 
 ![Piano roll](data/Week%204/Piano%20roll.png)
