@@ -40,8 +40,8 @@ For week 8 we had to pick 3 tracks relating to our theme. For each track, we had
 
 ### Waveform and Spectrogram for Something Human
 
-![Something human Waveform](data/Week%208/Something%20human%20waveform.png)
-![Something human Spectrogram](data/Week%208/Something%20human%20spectrogram.png)
+![Something human Waveform](data/Week%208/Something%20Human%20waveform.png)
+![Something human Spectrogram](data/Week%208/Something%20Human%20spectrogram.png)
 
 ### Waveform and Spectrogram for Starlight
 
