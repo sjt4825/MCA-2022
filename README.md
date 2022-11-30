@@ -28,9 +28,7 @@ The first task for week 3 was to export the week 2 score to MusicXML and MEI. We
 
 [MEI file](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%203/Starlight.mei)
 
-The next task was to compare 3 different elements of the MusicXML and MEI files.
-
-The writeup for this task can be found [here](https://github.com/sjt4825/MCA-2022/blob/master/verovio.html)
+The next task was to compare 3 different elements of the MusicXML and MEI files. The writeup for this task can be found [here](https://github.com/sjt4825/MCA-2022/blob/master/verovio.html)
 
 # Week 4
 
