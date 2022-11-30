@@ -34,9 +34,9 @@ The writeup for this task can be found [here](https://github.com/sjt4825/MCA-202
 
 # Week 4
 
-The task for week 4 was to make a jsymbolic analysis of my piece and then use Python Notebook to create a piano roll and pitch histogram of the piece. A pitch histogram displays how many times each pitch is used in a piece, this can allow us to make a good guess on what key the piece is in.
+The task for week 4 was to make a jSymbolic analysis of my piece and then use Python Notebook to create a piano roll and pitch histogram of the piece. A pitch histogram displays how many times each pitch is used in a piece, this can allow us to make a good guess on what key the piece is in.
 
-Here is the [jsymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%204/jsymbolic%20analysis.csv)
+Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%204/jsymbolic%20analysis.csv)
 
 ### Piano Roll
 
