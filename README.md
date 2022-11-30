@@ -11,7 +11,7 @@ In terms of notated data, there any many muse scores available on musescore.com 
 
 One challenge to working with music data is how a lot of the time sheet music is not in the public domain and therefore cant be accessed without making a payment. There are certain copyright laws that needs to be paid attention to before using any music or sheet music from the band in any of your own work. I have ran into a similar issue before when dealing with the use of music in things like YouTube videos. Some songs are blocked in certain countries, blocked altogether, or simply don't allow the video to be monetised.
 
-Another challenge is that all the data you're looking for most likely isnt all from the same source so yuo woul need to visit a lot of different places to collect all the data you want.
+Another challenge is that all the data you're looking for most likely isnt all from the same source so you would need to visit a lot of different places to collect all the data you want.
 
 # Week 2
 For week 2 our task was to find a piece of music relating to our theme to download and convert to musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcibe the piece.
