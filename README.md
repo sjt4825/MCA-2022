@@ -13,10 +13,6 @@ One challenge to working with music data is how a lot of the time sheet music is
 
 Another challenge is that all the data you're looking for most likely isnt all from the same source so yuo woul need to visit a lot of different places to collect all the data you want.
 
-
-## Dataset Theme
- 
-
 # Week 2
 For week 2 our task was to find a piece of music relating to our theme to download and convert to musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcibe the piece.
 
