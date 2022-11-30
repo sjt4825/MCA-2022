@@ -1,10 +1,21 @@
 # Lab Portfolio
 
 # Week 1
+For the theme of my dataset I have chosen the English rock band Muse. The band consists of Matthew Bellamy (vocals & guitar), Chris Wolstenholme (bass guitar) and Dominic Howard (drums). In August 2022, they released their ninth studio album entitled "Will of the People".
+
+Acoustic data for my theme can be found through every major music streaming platform including Spotufy, apple music, tidal, deezer. Studio albums aswell as live performance albums Aswell as video platforms like youtube. The acoustic data can be in the form of the official songs on the bands channel as well as fan made remixes or covers or live performances from concerts. The band’s official website contains 30 second preview of all their songs facilitated through an embedded spotify link. The band includes link to music videos. 
+
+The meta data found on the Spotify include things like the band members, the date the band formed, monthly listeners/followers, albums sold. It also has links to all their social medias aswell as their Wikipedia page which includes more metadata about the band.
+
+In terms of notated data, there any many muse scores available on musescore.com but they are not free. Muse sheet music aswell as guitar tabs are available in the shop section of their website but it is also a paid product.
+
+One challenge to working with music data is how a lot of the time sheet music is not in the public domain and therefore cant be accessed without making a payment. There are certain copyright laws that needs to be paid attention to before using any music or sheet music from the band in any of your own work. I have ran into a similar issue before when dealing with the use of music in things like YouTube videos. Some songs are blocked in certain countries, blocked altogether, or simply don't allow the video to be monetised.
+
+Another challenge is that all the data you're looking for most likely isnt all from the same source so yuo woul need to visit a lot of different places to collect all the data you want.
 
 
 ## Dataset Theme
-For the theme of my dataset I have chosen the English rock band Muse. 
+ 
 
 # Week 2
 For week 2 our task was to find a piece of music relating to our theme to download and convert to musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcibe the piece.
@@ -33,6 +44,8 @@ Here is the [jsymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 ### Pitch Histogram
 
 ![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
+
+# Week 5
 
 # Week 8
 
