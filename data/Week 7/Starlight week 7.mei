@@ -41,7 +41,10 @@
                      <role>Dominic Howard</role>
                      <perfRes>Drums</perfRes>
                  </castItem>
-            </castList> 
+            </castList>
+            <classification>
+		    <term> Alternative Rock</term>
+	    </classification>	 
          </workList>
    </meiHead>
    <music>
