@@ -46,6 +46,9 @@ Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 
 # Week 5
 
+For week 5 we were tasked to create a metadata schema of at least 5 elements that we can apply to our theme. The elements I chose to include are the title, composer, lyricist, band members (castList tag), album (seriesStmt tag) and encoder.
+
+
 # Week 8
 
 For week 8 we had to pick 3 tracks relating to our theme. For each track, we had to make a table of metadata then create a spectrogram.
