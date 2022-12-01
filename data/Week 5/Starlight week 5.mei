@@ -11,6 +11,7 @@
             <respStmt>
                <resp>Encoded by</resp>
                <name>Samuel Taylor</name>
+            </respStmt>   
          </titleStmt>
          <pubStmt><date isodate="2022-11-30" type="encoding-date">2022-11-30</date>
          </pubStmt>
@@ -25,7 +26,8 @@
          </appInfo>
       </encodingDesc>
          <worklist>
-          <castList>Members of band are Matthew Bellamy, Chris Wolstenholme and Dominic Howard</castList>  
+          <castList>Members of band are Matthew Bellamy, Chris Wolstenholme and Dominic Howard</castList>
+         </worklist>
    </meiHead>
    <music>
       <body>
