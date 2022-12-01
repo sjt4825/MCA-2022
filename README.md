@@ -20,6 +20,13 @@ I had diffculty finding a free score relating to my theme so I instead downloade
 
 The transcription managed to mostly detect the correct notes but it also missed out some notes and added random dynamic markings that were not in the original score. The transcription did not manage to include any of the metadata such as the title and composer. The transcription also combined all 20 bars into only 4 bars. This occured as the software detected each 4 bars as a seperate piano part and joined it all onto 1 system.  I was unsure of how to rectify this so I created new bars then pasted sections of the transcription onto them. I then edited it to correct the rest of the transcription
 
+### OMR Transcription DEpedia.org
+![OMR transcription](data/Week%202/OMR_transcription.png)
+
+### Corrected Score
+
+![Corrected score](data/Week%202/Corrected_week_2_score.png)
+
 # Week 3
 
 The first task for week 3 was to export the week 2 score to MusicXML and MEI. We then had to use Verovio to render the MEI file and experiment with changing the MEI code to see how it changes the score.
@@ -28,7 +35,7 @@ The first task for week 3 was to export the week 2 score to MusicXML and MEI. We
 
 [MEI file](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%203/Starlight.mei)
 
-The next task was to compare 3 different elements of the MusicXML and MEI files. The writeup for this task can be found [here](https://github.com/sjt4825/MCA-2022/blob/master/verovio.html)
+The next task was to compare 3 different elements of the MusicXML and MEI files. The writeup for this task can be found [here](https://github.com/sjt4825/MCA-2022/blob/master/verovio.html) try just typing verovio.html
 
 # Week 4
 
