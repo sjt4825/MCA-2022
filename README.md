@@ -45,6 +45,7 @@ Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 
 ### Piano Roll
 
+add scatter plot 
 ![Piano roll](data/Week%204/Piano%20roll.png)
 
 ### Pitch Histogram
