@@ -17,7 +17,7 @@
          </pubStmt>
          <seriesStmt>
              <title>Album - Black Holes and Revelations</title>
-	      </seriesStmt>   
+	 </seriesStmt>   
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-to177e">
          <appInfo xml:id="appinfo-128uxrq">
@@ -28,7 +28,20 @@
          </appInfo>
       </encodingDesc>
          <workList>
-          <castList>Members of band are Matthew Bellamy, Chris Wolstenholme and Dominic Howard</castList>
+           <castList>
+		 <castItem>
+                     <role>Matthew Bellamy</role>
+                     <perfRes>Vocals and guitar</perfRes>
+                 </castItem>
+		 <castItem>
+                     <role>Chris Wolstenholme</role>
+                     <perfRes>Bass</perfRes>
+                 </castItem>
+		 <castItem>
+                     <role>Dominic Howard</role>
+                     <perfRes>Drums</perfRes>
+                 </castItem>
+            </castList> 
          </workList>
    </meiHead>
    <music>
