@@ -5,11 +5,16 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title />
-            <respStmt />
+            <title>Starlight</title>
+            <composer>Muse</composer>
+            <lyricist>Matthew Bellamy</lyricist>
+            <respStmt>
+               <resp>Encoded by</resp>
+               <name>Samuel Taylor</name>
          </titleStmt>
          <pubStmt><date isodate="2022-11-30" type="encoding-date">2022-11-30</date>
          </pubStmt>
+         <seriesStmt>Album - Black Holes and Revelations</seriesStmt>   
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-to177e">
          <appInfo xml:id="appinfo-128uxrq">
@@ -19,6 +24,8 @@
             </application>
          </appInfo>
       </encodingDesc>
+         <worklist>
+          <castList>Members of band are Matthew Bellamy, Chris Wolstenholme and Dominic Howard</castList>  
    </meiHead>
    <music>
       <body>
