@@ -43,16 +43,16 @@ The task for week 4 was to make a jSymbolic analysis of my piece and then use Py
 
 Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%204/jsymbolic%20analysis.csv)
 
-### Piano Roll
+## Piano Roll
  
 ![Piano roll](data/Week%204/Piano%20roll.png)
 
-### Scatter Plot of Pitches
+## Scatter Plot of Pitches
  
 ![Scatter plot](data/Week%204/Scatter%20plot.png)
 
 
-### Pitch Histogram
+## Pitch Histogram
 
 ![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
 
