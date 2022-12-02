@@ -25,7 +25,7 @@ The transcription managed to mostly detect the correct notes but it also missed 
 
 ### Corrected Score
 
-![Corrected score](data/Week%202/Corrected_week_2_score.png)
+![Corrected score](data/Week%202/corrected_starlight_image.png)
 
 # Week 3
 
