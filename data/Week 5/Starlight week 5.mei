@@ -28,21 +28,25 @@
          </appInfo>
       </encodingDesc>
          <workList>
-           <castList>
-		 <castItem>
-                     <role>Matthew Bellamy</role>
-                     <perfRes>Vocals and guitar</perfRes>
-                 </castItem>
-		 <castItem>
-                     <role>Chris Wolstenholme</role>
-                     <perfRes>Bass</perfRes>
-                 </castItem>
-		 <castItem>
-                     <role>Dominic Howard</role>
-                     <perfRes>Drums</perfRes>
-                 </castItem>
-            </castList> 
-         </workList>
+            <work>
+	       <perfMedium>
+	          <castList>
+		     <castItem>
+                        <role>Matthew Bellamy</role>
+                        <perfRes>Vocals and guitar</perfRes>
+                     </castItem>
+		     <castItem>
+                        <role>Chris Wolstenholme</role>
+                        <perfRes>Bass</perfRes>
+                     </castItem>
+		     <castItem>
+                         <role>Dominic Howard</role>
+                         <perfRes>Drums</perfRes>
+                     </castItem>
+                  </castList>
+	       </perfMedium>
+	    </work>
+         </workList>		  
    </meiHead>
    <music>
       <body>
