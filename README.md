@@ -20,7 +20,7 @@ I had diffculty finding a free score relating to my theme so I instead downloade
 
 The transcription managed to mostly detect the correct notes but it also missed out some notes and added random dynamic markings that were not in the original score. The transcription did not manage to include any of the metadata such as the title and composer. The transcription also combined all 20 bars into only 4 bars. This occured as the software detected each 4 bars as a seperate piano part and joined it all onto 1 system.  I was unsure of how to rectify this so I created new bars then pasted sections of the transcription onto them. I then edited it to correct the rest of the transcription
 
-## OMR Transcription DEpedia.org
+## OMR Transcription
 ![OMR transcription](data/Week%202/OMR_transcription.png)
 
 ## Corrected Score
