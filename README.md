@@ -58,7 +58,9 @@ Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 
 # Week 5
 
-For week 5 we were tasked to create a metadata schema of at least 5 elements that we can apply to our theme. The elements I chose to include are the title, composer, lyricist, band members (castList tag), album (seriesStmt tag) and encoder.
+For week 5 we were tasked to create a metadata schema of at least 5 elements that we can apply to our theme. The elements I chose to include are the title, composer, lyricist, band members (castList tag), album (seriesStmt tag) and encoder. We then had to add this metadata to our MEI file.
+
+The updated MEI file can be found [here](/data/Week%205/starlight%20week%205.mei)
 
 
 # Week 8
