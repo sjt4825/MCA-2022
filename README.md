@@ -88,7 +88,7 @@ Time frequency depicts frequency a lot more clearly than wavefrom analysis. It a
 # Week 9
 For week 9 we had to choose 3 tracks then create a spectrogram, Mel Frequency Cepstral Coefficients (MFCC), and a chromagram for each track. We then had to use Python Notebook to cretate histograms for each of these.
 
-For my 3 chosen tracks I chose a studio recording, a live concert recording and then an acoustic version of a song. The live concert recording has a lot of extra crowd noise which the studio recording of the first track does not have. The acoustic version has a lot less going on in it as it is only an electric guitar and a voice for the most part. COnsidering all this i would expect the histograms to be quite different to each other.
+For my 3 chosen tracks I chose a studio recording, a live concert recording and then an acoustic version of a song. The live concert recording has a lot of extra crowd noise which the studio recording of the first track does not have. The acoustic version has a lot less going on in it as it is only an electric guitar and a voice for the most part. Considering all this i would expect the histograms to be quite different to each other.
 
 ## Track 1 Histogram
 ![Track 1 histogram](data/Week%204/Pitch%20Histogram.png)
