@@ -3,7 +3,7 @@
 # Week 1
 For the theme of my dataset I have chosen the English rock band Muse. The band consists of Matthew Bellamy (vocals & guitar), Chris Wolstenholme (bass guitar) and Dominic Howard (drums). In August 2022, they released their ninth studio album entitled "Will of the People".
 
-Acoustic data for my theme can be found through every major music streaming platform including Spotufy, apple music, tidal, deezer. Studio albums aswell as live performance albums Aswell as video platforms like youtube. The acoustic data can be in the form of the official songs on the bands channel as well as fan made remixes or covers or live performances from concerts. The band’s official website contains 30 second preview of all their songs facilitated through an embedded spotify link. The band includes link to music videos. 
+Acoustic data for my theme can be found through every major music streaming platform including Spotufy, apple music, tidal, deezer. Studio albums aswell as live performance albums Aswell as video platforms like youtube. The acoustic data can be in the form of the official songs on the bands channel as well as fan made remixes or covers or live performances from concerts. The band’s official website contains 30 second preview of all their songs facilitated through an embedded spotify link. The band includes link to music videos. Can be also be found on physical copies oftheir albums.
 
 The meta data found on the Spotify include things like the band members, the date the band formed, monthly listeners/followers, albums sold. It also has links to all their social medias aswell as their Wikipedia page which includes more metadata about the band.
 
