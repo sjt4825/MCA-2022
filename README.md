@@ -92,16 +92,31 @@ For week 9 we had to choose 3 tracks then create a spectrogram, Mel Frequency Ce
 
 For my 3 chosen tracks I chose a studio recording, a live concert recording and then an acoustic version of a song. The live concert recording has a lot of extra crowd noise which the studio recording of the first track does not have. The acoustic version has a lot less going on in it as it is only an electric guitar and a voice for the most part. Considering all this i would expect the histograms to be quite different to each other.
 
-## Track 1 Histogram
-![Track 1 histogram](data/Week%204/Pitch%20Histogram.png)
+## Psycho Histograms
 
-## Track 2 Histogram
-![Track 2 histogram](data/Week%204/Pitch%20Histogram.png)
+### MFCC
+![mfcc histogram](data/Week%209/psycho_mfcc_histogram.png)
 
-## Track 3 Histogram
-![Track 3 histogram](data/Week%204/Pitch%20Histogram.png)
+### Chromagram
+![chromagram histogram](data/Week%209/psycho_chromagram_histogram.png)
 
-The psycho and starlight histograms for the chromagram generally have a higher amplitude which is expected as they are electric instruments with the use of drums whereas the something human track si acoustic so does not have as wide of a range of frequencies and is not of great of an amplitude
+## Something Human Histograms
+
+### MFCC
+![mfcc histogram](data/Week%209/something_human_mfcc_histogram.png)
+
+### Chromagram
+![chromagram histogram](data/Week%209/something_human_chromagram_histogram.png)
+
+## Starlight Histograms
+
+### MFCC
+![mfcc histogram](data/Week%209/starlight_mfcc_histogram.png)
+
+### Chromagram
+![chromagram histogram](data/Week%209/starlight_chromagram_histogram.png)
+
+I decided to compare the MFCC histograms as an MFCC shows the timbre of the audio which to me is more insteresting than the chromagram which looks at the pitch classes of the audio. The psycho and starlight histograms for the chromagram generally have a higher amplitude which is expected as they are electric instruments with the use of drums whereas the something human track si acoustic so does not have as wide of a range of frequencies and is not of great of an amplitude
 
 # Week 10
 For the first task we had to create a similarity matrix using python notebook for 3 tracks relating to our theme.
