@@ -3,7 +3,7 @@
 | [Week 1](https://sjt4825.github.io/MCA-2022/#week-1) / [Week 2](https://sjt4825.github.io/MCA-2022/#week-2) / [Week 3](https://sjt4825.github.io/MCA-2022/#week-3) / [Week 4](https://sjt4825.github.io/MCA-2022/#week-4) / [Week 5](https://sjt4825.github.io/MCA-2022/#week-5) / [Week 7](https://sjt4825.github.io/MCA-2022/#week-7) / [Week 8](https://sjt4825.github.io/MCA-2022/#week-8) / [Week 9](https://sjt4825.github.io/MCA-2022/#week-9) / [Week 10](https://sjt4825.github.io/MCA-2022/#week-10) |
 
 # Week 1
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 For the theme of my dataset I have chosen the English rock band Muse. The band consists of Matthew Bellamy (vocals & guitar), Chris Wolstenholme (bass guitar) and Dominic Howard (drums). In August 2022, they released their ninth studio album entitled "Will of the People".
 
@@ -18,7 +18,7 @@ One challenge to working with music data is how a lot of the time sheet music is
 Another challenge is that to find all this data you need to search through multiple differences sources, it aren't all found in 1 source.
 
 # Week 2
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 For week 2 our task was to find a piece of music relating to our theme to download and convert to musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcibe the piece.
 
@@ -34,7 +34,7 @@ The transcription managed to mostly detect the correct notes but it also missed 
 ![Corrected score](data/Week%202/corrected_starlight_image.png)
 
 # Week 3
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 The first task for week 3 was to export the week 2 score to MusicXML and MEI. We then had to use Verovio to render the MEI file and experiment with changing the MEI code to see how it changes the score.
 
@@ -44,7 +44,7 @@ The first task for week 3 was to export the week 2 score to MusicXML and MEI. We
 
 The next task was to compare 3 different elements of the MusicXML and MEI files. The writeup for this task can be found [here](https://sjt4825.github.io/MCA-2022/verovio.html) 
 # Week 4
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 The task for week 4 was to make a jSymbolic analysis of my piece to extract relevant features of my piece and then use Python Notebook to create a piano roll, scatter plot of pitches and a pitch histogram of the piece. A pitch histogram displays how many times each pitch is used in a piece, this can allow us to make a good guess on what key the piece is in.
 
@@ -64,21 +64,21 @@ Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/ma
 ![Pitch histogram](data/Week%204/Pitch%20Histogram.png)
 
 # Week 5
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 For week 5 we were tasked to create a metadata schema of at least 5 elements that we can apply to our theme. The elements I chose to include are the title, composer, lyricist, band members (castList tag), album (seriesStmt tag) and encoder. We then had to add this metadata to our MEI file.
 
 The updated MEI file can be found [here](/data/Week%205/starlight%20week%205.mei)
 
 # Week 7
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 The task for week 7 was to update our week 5 MEI file with genre and licencing information and dislay it on an HTML page.
 
 The revised MEI data with the score can be found [Here](data/Week%207/week7meta.html)
 
 # Week 8
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 For week 8 we had to pick 3 tracks relating to our theme. For each track, we had to make a table of metadata then create a spectrogram.
 
@@ -102,7 +102,7 @@ With time frequency analysis it allows us to see a representation of how often e
 Time frequency depicts frequency a lot more clearly than wavefrom analysis. It also shows us a lot more useful information than a waveform does
 
 # Week 9
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 For week 9 we had to choose 3 tracks then create a spectrogram, Mel Frequency Cepstral Coefficients (MFCC), and a chromagram for each track. We then had to use Python Notebook to cretate histograms for each of these.
 
@@ -135,7 +135,7 @@ For my 3 chosen tracks I chose a studio recording, a live concert recording and 
 I decided to compare the MFCC histograms as an MFCC shows the timbre of the audio which to me is more interesting than the chromagram which looks at the pitch classes.  For the most part, the three recordings use the same or very similar instruments (electric guitar, bass and drums) and all have the same vocalist as they are from the same band. "Something Human" uses an acoustic guitar rather an electric guitar and does not have drums. "Starlight" includes a synth/keyboard which the other 2 tracks do not. "Starlight" also has crowd noises in the recording since it is from a live performance. If we look at the histograms for feature 2,3 and 4 we see that for "Starlight" the histograms has a 2nd hump or peak to the left of the main peak. This is not present for the others 2 tracks. This could perhaps be due to the extra synth texture and crowd noises. We can also see that the shape of the histogram for "Psycho" is not quite as tall as the other 2 tracks for feature 2, 3 and 4. For "Psycho" the shape of the histograms tend to be thinner than for the other 2 tracks. Overall the histograms for "Something Human" and "Starlight" seem to be the most similar. I wouldn't expect this from listening to the tracks especially consider "Something Human" is the only one to not use an electric guitar and not involve bass and drums. For all 3 tracks the shape of the histograms seem to be very similar. 
 
 # Week 10
-[Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
+[Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
 For the first task we had to create a similarity matrix using python notebook for 3 tracks relating to our theme.
 
