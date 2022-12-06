@@ -1,6 +1,6 @@
 # Lab Portfolio
 
-| [Week 1](https://sjt4825.github.io/MCA-2022/#week-1) [Week 2](https://sjt4825.github.io/MCA-2022/#week-2) [Week 3](https://sjt4825.github.io/MCA-2022/#week-3) [Week 4](https://sjt4825.github.io/MCA-2022/#week-4) [Week 5](https://sjt4825.github.io/MCA-2022/#week-5) [Week 7](https://sjt4825.github.io/MCA-2022/#week-7) [Week 8](https://sjt4825.github.io/MCA-2022/#week-8) [Week 9](https://sjt4825.github.io/MCA-2022/#week-9) [Week 10](https://sjt4825.github.io/MCA-2022/#week-10)
+| [Week 1](https://sjt4825.github.io/MCA-2022/#week-1) / [Week 2](https://sjt4825.github.io/MCA-2022/#week-2) / [Week 3](https://sjt4825.github.io/MCA-2022/#week-3) / [Week 4](https://sjt4825.github.io/MCA-2022/#week-4) / [Week 5](https://sjt4825.github.io/MCA-2022/#week-5) / [Week 7](https://sjt4825.github.io/MCA-2022/#week-7) / [Week 8](https://sjt4825.github.io/MCA-2022/#week-8) / [Week 9](https://sjt4825.github.io/MCA-2022/#week-9) / [Week 10](https://sjt4825.github.io/MCA-2022/#week-10) |
 
 # Week 1
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
