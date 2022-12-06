@@ -28,24 +28,26 @@
          </appInfo>
       </encodingDesc>
          <workList>
-           <castList>
-		 <castItem>
-                     <role>Matthew Bellamy</role>
-                     <perfRes>Vocals and guitar</perfRes>
-                 </castItem>
-		 <castItem>
-                     <role>Chris Wolstenholme</role>
-                     <perfRes>Bass</perfRes>
-                 </castItem>
-		 <castItem>
-                     <role>Dominic Howard</role>
-                     <perfRes>Drums</perfRes>
-                 </castItem>
-            </castList>
-            <classification>
-		    <term> Alternative Rock</term>
-	    </classification>	 
-         </workList>
+            <work>
+	       <perfMedium>
+	          <castList>
+		     <castItem>
+                        <role>Matthew Bellamy</role>
+                        <perfRes>Vocals and guitar</perfRes>
+                     </castItem>
+		     <castItem>
+                        <role>Chris Wolstenholme</role>
+                        <perfRes>Bass</perfRes>
+                     </castItem>
+		     <castItem>
+                         <role>Dominic Howard</role>
+                         <perfRes>Drums</perfRes>
+                     </castItem>
+                  </castList>
+	       </perfMedium>
+	       <classification> Genre: Alternative Rock</clasification>
+	    </work>
+         </workList>		  
    </meiHead>
    <music>
       <body>
