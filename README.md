@@ -70,6 +70,8 @@ For week 5 we were tasked to create a metadata schema of at least 5 elements tha
 
 The updated MEI file can be found [here](/data/Week%205/starlight%20week%205.mei)
 
+# Week 7
+The task for week 7 was to update our week 5 MEI file with genre and licencing information and dislay it on an HTML page.
 
 # Week 8
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#Lab-Portfolio)
