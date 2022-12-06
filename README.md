@@ -96,9 +96,9 @@ For week 8 we had to pick 3 tracks relating to our theme. For each track, we had
 ![Starlight Waveform](data/Week%208/Starlight%20waveform.png)
 ![Starlight Spectrogram](data/Week%208/Starlight%20spectrogram.png)
 
-With time frequency analysis it allows us to see a representation of how often each frequency is present in the recording, this can suggest which key the piece is in. Whereas with waveform based analysis it is a lot harder to pick out frequencies and they are not represented in a clear way, there is also no measure of how often each frequency occurs. We can see a representation of how prevalent each frequency and therefore note is.
+With time-frequency analysis we are able to see a representation of the frequencies present in the recording as well as how often they appear. Whereas with waveform based analysis, it is a lot harder to pick out frequencies. Waveform analysis mostly shows us the amplitude of the sound as a whole but time-frequency analysis shows us the amplitude over the whole spectrum of frequencies.
 
-Time frequency depicts frequency a lot more clearly than wavefrom analysis. It also shows us a lot more useful information than a waveform does
+At just before the 2 minute mark on the "Starlight" waveform, we can see that the amplitude of the sound has decreased. If however we look at the spectrogram for this same time period, we can see a lot of the lower frequencies have decreased but that the frequencies around 500-700Hz have stayed relatively the same amplitude as before. If we listen to the song at his section we can hear that the bass guitar has dropped out of the mix but there is still an electric guitar playing a melody in the upper range. This is represented by the spectrogram but not the waveform.
 
 # Week 9
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
