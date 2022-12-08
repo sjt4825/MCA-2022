@@ -37,9 +37,9 @@ The transcription managed to mostly detect the correct notes but it also missed 
 
 The first task for week 3 was to export the week 2 score to MusicXML and MEI. We then had to use Verovio to render the MEI file and experiment with changing the MEI code to see how it changes the score.
 
-[Music XML file](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%203/Starlight.musicxml)
+[Music XML file](data/Week%203/Starlight.musicxml)
 
-[MEI file](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%203/Starlight.mei)
+[MEI file](data/Week%203/Starlight.mei)
 
 The next task was to compare 3 different elements of the MusicXML and MEI files. The writeup for this task can be found [here](https://sjt4825.github.io/MCA-2022/verovio.html) 
 # Week 4
