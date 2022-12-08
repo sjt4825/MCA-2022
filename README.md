@@ -14,7 +14,7 @@ In terms of notated data, there any many scores available on musescore.com but t
 
 One challenge to working with music data is how a lot of the time sheet music is not in the public domain and therefore can't be accessed without making a payment. There are certain copyright laws that needs to be paid attention to before using any music or sheet music from the band in any of your own work. I have ran into a similar issue before when dealing with the use of music in things like YouTube videos. Some songs are blocked in certain countries, blocked altogether, or simply don't allow the video to be monetised.
 
-Another challenge is that to find all this data you need to search through multiple differences sources, it aren't all found in 1 source.
+Another challenge is that to find all this data you need to search through multiple differences sources, it isn't all found in 1 source.
 
 # Week 2
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
