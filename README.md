@@ -47,7 +47,7 @@ The next task was to compare 3 different elements of the MusicXML and MEI files.
 
 The task for week 4 was to make a jSymbolic analysis of my piece to extract relevant features of my piece and then use Python Notebook to create a piano roll, scatter plot of pitches and a pitch histogram of the piece. A pitch histogram displays how many times each pitch is used in a piece, this can allow us to make a good guess on what key the piece is in.
 
-Here is the [jSymbolic analysis csv](https://github.com/sjt4825/MCA-2022/blob/master/data/Week%204/jsymbolic%20analysis.csv)
+Here is the [jSymbolic analysis csv](data/Week%204/jsymbolic%20analysis.csv)
 
 ## Piano Roll
  
