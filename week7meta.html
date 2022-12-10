@@ -58,7 +58,7 @@
         scale: 50,
         adjustPageHeight: true
     })
-    fetch("data/Week%207/Starlight%20Week%207.mei").then(function( response ) {
+    fetch("data/Week%207/Starlight%20week%207.mei").then(function( response ) {
         response.text().then(function( data ) {
           var svg = vrvToolkit.renderData(data, {})
           document.getElementById('MEI').innerHTML = svg
