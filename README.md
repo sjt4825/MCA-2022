@@ -74,7 +74,9 @@ The updated MEI file can be found [here](data/Week%205/Starlight%20week%205.mei)
 
 The task for week 7 was to update our week 5 MEI file with genre and licencing information and dislay it on an HTML page.
 
-The revised MEI data with the score can be found [Here](week7meta.html)
+The revised MEI data with the score can be found [Here](data/Week%207/Starlight%20week%207.mei).
+
+The revised MEI data with the score can be found [Here](week7meta.html). I was not able to finish the formatting section of the task so the text is not in good shape.
 
 # Week 8
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
