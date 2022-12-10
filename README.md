@@ -150,6 +150,8 @@ For the first task we had to create a similarity matrix using python notebook fo
 
 ![Similarity Matrix](data/Week%2010/week%2010%20similarity%20matrix.png)
 
+The X and Y axis represent the track numbers and the colour represents the similarity between the tracks. 0 (dark blue) is the maxiumum similarity and around 2.5 (yellow) is the minimum similarity. As we can see in the similarity matrix, tracks 0-3 display high similarity with each other, this is expected as they are all classified as classical music. Tracks 4-6 are classified as rock music and as we can expect from this they are very similar to each other. Tracks 7-9 are tracks from my theme. These tracks are also in the rock genre and we can see that these tracks are quite similar to each other but also to the other rock tracks. Tracks 4-9 are not very similar to the classical tracks 0-3. 
+
 After this, a polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content.
 The original file has been transcribed into both the wrong key and time signature. The transcription is in 3 / 4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
 
