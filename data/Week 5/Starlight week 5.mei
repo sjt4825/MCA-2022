@@ -29,23 +29,23 @@
       </encodingDesc>
          <workList>
             <work>
-	       <perfMedium>
-	          <castList>
-		     <castItem>
+	           <perfMedium>
+	              <castList>
+		             <castItem>
                         <role>Matthew Bellamy</role>
                         <perfRes>Vocals and guitar</perfRes>
                      </castItem>
-		     <castItem>
+		             <castItem>
                         <role>Chris Wolstenholme</role>
                         <perfRes>Bass</perfRes>
                      </castItem>
-		     <castItem>
-                         <role>Dominic Howard</role>
-                         <perfRes>Drums</perfRes>
+		             <castItem>
+                        <role>Dominic Howard</role>
+                        <perfRes>Drums</perfRes>
                      </castItem>
                   </castList>
-	       </perfMedium>
-	    </work>
+	           </perfMedium>
+	        </work>
          </workList>		  
    </meiHead>
    <music>
