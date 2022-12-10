@@ -86,8 +86,8 @@ For week 8 we had to pick 3 tracks relating to our theme. For each track, we had
 Title | Artist | Composer | Copyright Info | Genre | Source | File Format | No. of Channels | Sample Rate | Bit Rate | Duration
 ----- | ------ | -------- | -------------- | ----- | ------ | ----------- | --------------- | ----------- | -------- | --------
 Psycho | Muse | Matthew Bellamy | All Rights Reserved WMG |Hard Rock | [YouTube](https://www.youtube.com/watch?v=UqLRqzTp6Rk&ab_channel=Muse) | .mp3 | 2 | 48KHz | 128kb/s | 5:50
-Starlight (live) | Muse | Matthew Bellamy | All Rights Reserved WMG | Alternative rock | [YouTube](https://www.youtube.com/watch?v=R6f_7G71p_w&ab_channel=Muse) | .mp3 | 2 | 48KHz | 128kb/s | 4:18
 Something Human (Acoustic) | Muse | Matthew Bellamy | All Rights Reserved WMG | Alternative Rock | [YouTube](https://www.youtube.com/watch?v=t9hYxA_OiVI&ab_channel=Muse) | .mp3 | 2 | 48KHz | 128kb/s | 3:46
+Starlight (live) | Muse | Matthew Bellamy | All Rights Reserved WMG | Alternative rock | [YouTube](https://www.youtube.com/watch?v=R6f_7G71p_w&ab_channel=Muse) | .mp3 | 2 | 48KHz | 128kb/s | 4:18
 
 ## Waveform and Spectrogram for Psycho
 
