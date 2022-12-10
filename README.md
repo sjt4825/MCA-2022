@@ -81,6 +81,11 @@ The revised MEI data with the score can be found [Here](week7meta.html)
 
 For week 8 we had to pick 3 tracks relating to our theme. For each track, we had to make a table of metadata then create a spectrogram.
 
+## Track Metadata Table
+
+Title | Artist | Composer | Copyright Info | Second Header | Genre | Source | File Format | No. of Channels | Sample Rate | Bit Rate | Duration
+----- | ------ | -------- | -------------- | ------------- | ----- | ------ | ----------- | --------------- | ----------- | -------- | --------
+
 ## Waveform and Spectrogram for Psycho
 
 ![Psycho Waveform](data/Week%208/Psycho%20waveform.png)
