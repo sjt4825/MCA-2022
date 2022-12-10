@@ -14,6 +14,9 @@
             </respStmt>   
          </titleStmt>
          <pubStmt><date isodate="2022-11-30" type="encoding-date">2022-11-30</date>
+	    <availability>
+               <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" authority = "Creative Commons">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</useRestrict>
+            </availability>
          </pubStmt>
          <seriesStmt>
             <title authURI="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" authority="AllMusic">Album - Black Holes and Revelations</title>
