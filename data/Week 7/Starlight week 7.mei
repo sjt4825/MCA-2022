@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Starlight</title>
-            <composer authURI="https://www.allmusic.com/artist/muse-mn0000514563/biography" authority="AllMusic">Muse</composer>
+            <composer auth.uri="https://www.allmusic.com/artist/muse-mn0000514563/biography" auth="AllMusic">Muse</composer>
             <lyricist>Matthew Bellamy</lyricist>
             <respStmt>
                <resp>Encoded by</resp>
@@ -15,7 +15,7 @@
          </titleStmt>
          <pubStmt><date isodate="2022-11-30" type="encoding-date">2022-11-30</date>
 	    <availability>
-               <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" authority = "Creative Commons">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</useRestrict>
+               <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" auth = "Creative Commons">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</useRestrict>
             </availability>
          </pubStmt>
          <seriesStmt>
