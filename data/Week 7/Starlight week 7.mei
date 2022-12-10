@@ -19,7 +19,7 @@
             </availability>
          </pubStmt>
          <seriesStmt>
-            <title authURI="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" auth = "AllMusic">Album - Black Holes and Revelations</title>
+            <title auth.uri="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" auth = "AllMusic">Album - Black Holes and Revelations</title>
 	     </seriesStmt>   
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-to177e">
