@@ -19,11 +19,11 @@ Another challenge is that to find all this data you need to search through multi
 # Week 2
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
-For week 2 our task was to find a piece of music relating to our theme to download and convert to musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcibe the piece.
+For week 2 our task was to find a piece of music relating to our theme to download and convert to Musescore files using Optical Music Recognition (OMR). We then had to edit the score to fix the parts where the OMR failed to accurately transcribe the piece.
 
 I had difficulty finding a free score relating to my theme so I instead downloaded an image of a score preview on Google and converted it to a PDF using Microsoft Word.
 
-The transcription managed to mostly detect the correct notes but it also missed out some notes and added random dynamic markings that were not in the original score. The transcription did not manage to include any of the metadata such as the title and composer. The transcription also combined all 20 bars into only 4 bars. This occured as the software detected each 4 bars as a seperate piano part and joined it all onto 1 system.  I was unsure of how to rectify this so I created new bars then pasted sections of the transcription onto them. I then edited it to correct the rest of the transcription
+The transcription managed to mostly detect the correct notes but it also missed out some notes and added random dynamic markings that were not in the original score. The transcription did not manage to include any of the metadata such as the title and composer. The transcription also combined all 20 bars into only 4 bars. This occurred as the software detected each 4 bars as a separate piano part and joined it all onto 1 system.  I was unsure of how to rectify this so I created new bars then pasted sections of the transcription onto them. I then edited it to correct the rest of the transcription.
 
 ## OMR Transcription
 ![OMR transcription](data/Week%202/OMR_transcription.png)
@@ -41,7 +41,7 @@ The first task for week 3 was to export the week 2 score to MusicXML and MEI. We
 
 [MEI file](data/Week%203/Starlight.mei)
 
-The next task was to compare 3 different elements of the MusicXML and MEI files. The writeup for this task can be found [here](https://sjt4825.github.io/MCA-2022/verovio.html) 
+The next task was to compare 3 different elements of the MusicXML and MEI files. The write-up for this task can be found [here](https://sjt4825.github.io/MCA-2022/verovio.html) 
 # Week 4
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
@@ -72,16 +72,16 @@ The updated MEI file can be found [here](data/Week%205/Starlight%20week%205.mei)
 # Week 7
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
-The task for week 7 was to update our week 5 MEI file with genre and licencing information and dislay it on an HTML page.
+The task for week 7 was to update our week 5 MEI file with genre and licencing information and display it on an HTML page.
 
-The revised MEI data with the score can be found [Here](data/Week%207/Starlight%20week%207.mei).
+The revised MEI data with the score can be found [here](data/Week%207/Starlight%20week%207.mei).
 
-The revised MEI data with the score can be found [Here](week7meta.html). I was not able to finish the formatting section of the task so the text is not in good shape.
+The revised MEI data with the score can be found [here](week7meta.html). I was not able to finish the formatting section of the task so the text is not in good shape.
 
 # Week 8
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
-For week 8 we had to pick 3 tracks relating to our theme. For each track, we had to make a table of metadata then create a spectrogram.
+For week 8 we had to pick 3 tracks relating to our theme. For each track, we had to make a table of metadata then create a spectrogram using Sonic Visualiser.
 
 ## Track Metadata Table
 
@@ -113,7 +113,7 @@ At just before the 2 minute mark on the "Starlight" waveform, we can see that th
 # Week 9
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
 
-For week 9 we had to choose 3 tracks then create a spectrogram, Mel Frequency Cepstral Coefficients (MFCC), and a chromagram for each track. We then had to use Python Notebook to cretate histograms for each of these.
+For week 9 we had to choose 3 tracks then create a spectrogram, Mel Frequency Cepstral Coefficients (MFCC), and a chromagram for each track using Sonic Visualiser. We then had to use Python Notebook to create histograms for each of these.
 
 For my 3 chosen tracks I chose a studio recording, a live concert recording and then an acoustic version of a song. This was for variety to hopefully be able to identify differences easier. 
 
@@ -154,7 +154,7 @@ For the first task we had to create a similarity matrix using python notebook fo
 
 The X and Y axes represent the track numbers and the colour represents the similarity between the tracks. 0 (dark blue) is the maximum similarity and around 2.5 (yellow) is the minimum similarity. As we can see in the similarity matrix, tracks 0-3 display high similarity with each other, this is expected as they are all classified as classical music. Tracks 4-6 are classified as rock music and as we can expect from this they are very similar to each other. Tracks 7-9 are tracks from my theme. These tracks are also in the broad rock genre and we can see that these tracks are quite similar to each other but also to the other rock tracks. Tracks 4-9 are not very similar to the classical tracks 0-3. 
 
-After this, a polyphonic transcription was applied to the musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content. The original file has been transcribed into both the wrong key and time signature. The transcription is in 3 / 4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
+After this, a polyphonic transcription was applied to the Musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content. The original file has been transcribed into both the wrong key and time signature. The transcription is in 3 / 4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
 
 After these first 6 bars, the transcription improves as it vaguely follows the original piece. However, there are many incorrect notes as well as added and missing notes. In the original piece there are only 2 notes being played at one time, however, in the transcription, there are up to 5 notes being played at the same time. The rhythm in many parts is also incorrect. There are also multiple clefs in the middle of the bars. It also misses out the dynamics and pedal markings. The repeat lines from the original score are not preserved. Despite all this, the tempo is correct.
 
