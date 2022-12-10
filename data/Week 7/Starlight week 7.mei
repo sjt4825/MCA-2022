@@ -19,7 +19,7 @@
             </availability>
          </pubStmt>
          <seriesStmt>
-            <title authURI="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" authority="AllMusic">Album - Black Holes and Revelations</title>
+            <title authURI="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" auth = "AllMusic">Album - Black Holes and Revelations</title>
 	     </seriesStmt>   
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-to177e">
@@ -32,24 +32,24 @@
       </encodingDesc>
          <workList>
             <work>
-	           <perfMedium>
-	              <castList>
-		             <castItem>
+	       <perfMedium>
+	          <castList>
+		     <castItem>
                         <role>Matthew Bellamy</role>
                         <perfRes>Vocals and guitar</perfRes>
                      </castItem>
-		             <castItem>
+		     <castItem>
                         <role>Chris Wolstenholme</role>
                         <perfRes>Bass</perfRes>
                      </castItem>
-		             <castItem>
+		     <castItem>
                         <role>Dominic Howard</role>
                         <perfRes>Drums</perfRes>
                      </castItem>
                   </castList>
-	           </perfMedium>
-			   <classification> Genre: Alternative Rock </clasification>
-	        </work>
+	       </perfMedium>
+	          <classification> Genre: Alternative Rock </clasification>
+	    </work>
          </workList>		  
    </meiHead>
    <music>
