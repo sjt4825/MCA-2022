@@ -6,7 +6,7 @@
       <fileDesc>
          <titleStmt>
             <title>Starlight</title>
-            <composer authURI="https://www.allmusic.com/artist/muse-mn0000514563/biography" authority="AllMusic">Muse</composer>
+            <composer auth.uri="https://www.allmusic.com/artist/muse-mn0000514563/biography" auth="AllMusic">Muse</composer>
             <lyricist>Matthew Bellamy</lyricist>
             <respStmt>
                <resp>Encoded by</resp>
@@ -16,7 +16,7 @@
          <pubStmt><date isodate="2022-11-30" type="encoding-date">2022-11-30</date>
          </pubStmt>
          <seriesStmt>
-            <title authURI="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" authority="AllMusic">Album - Black Holes and Revelations</title>
+            <title auth.uri="https://www.allmusic.com/album/black-holes-revelations-mw0000729346" auth="AllMusic">Album - Black Holes and Revelations</title>
 	     </seriesStmt>   
       </fileDesc>
       <encodingDesc xml:id="encodingdesc-to177e">
