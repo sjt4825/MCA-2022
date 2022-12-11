@@ -161,9 +161,7 @@ For the first task we had to create a similarity matrix using python notebook wi
 
 The X and Y axes represent the track numbers and the colour represents the similarity between the tracks. 0 (dark blue) is the maximum similarity and around 2.5 (yellow) is the minimum similarity. Tracks 0-3 display high similarity with each other, this is expected as they are all classified as classical music. Tracks 4-6 are classified as rock music and as we can expect from this they are very similar to each other. Tracks 7-9 are tracks from my own theme. These tracks are also in the broad rock genre and we can see that these tracks are quite similar to each other but also to the other rock tracks. Tracks 4-9 are not very similar to the classical tracks 0-3. 
 
-After this, a polyphonic transcription was applied to the Musescore file from week 2. Overall the 2 scores are very different visually as well as for the musical content. The original file has been transcribed into both the wrong key and time signature. The transcription is in 3/4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
-
-After these first 6 bars, the transcription improves as it vaguely follows the original piece. However, there are many incorrect notes as well as extra or missing notes. In the original piece there are only 2 notes being played at one time, however in the transcription, there are up to 5 notes being played at the same time. The rhythm in many parts is also incorrect. There are also multiple clefs in the middle of the bars. The transcription misses out the dynamics and pedal markings. The repeat lines from the original score are not preserved. Despite all this, the tempo is correct.
+After this, a polyphonic transcription was applied to the Musescore file from week 2. 
 
 ## Original Score
 ![Original score](data/Week%2010/original%20score%20image.png)
@@ -171,3 +169,7 @@ After these first 6 bars, the transcription improves as it vaguely follows the o
 ## Sonic Visualiser Transcription
 ![Transcription](data/Week%2010/week%2010%20transcription%20image-1-1.png)
 ![Transcription](data/Week%2010/week%2010%20transcription%20image-1-2.png)
+
+Overall the 2 scores are very different visually as well as for the musical content. The original file has been transcribed into both the wrong key and time signature. The transcription is in 3/4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
+
+After these first 6 bars, the transcription improves as it vaguely follows the original piece. However, there are many incorrect notes as well as extra or missing notes. In the original piece there are only 2 notes being played at one time, however in the transcription, there are up to 5 notes being played at the same time. The rhythm in many parts is also incorrect. There are also multiple clefs in the middle of the bars. The transcription misses out the dynamics and pedal markings. The repeat lines from the original score are not preserved. Despite all this, the tempo is correct.
