@@ -168,7 +168,7 @@ For the next task, a polyphonic transcription was applied to the Musescore file 
 
 ## Sonic Visualiser Transcription
 ![Transcription](data/Week%2010/week%2010%20transcription%20image-1-1.png)
-![Transcription](data/Week%2010/week%2010%20transcription%20image-1-2.png)
+          ![Transcription](data/Week%2010/week%2010%20transcription%20image-1-2.png)
 
 Overall the 2 scores are very different visually as well as for the musical content. The original file has been transcribed into both the wrong key and time signature. The transcription is in 3/4 which throws off the bar numbers significantly, making it harder to compare the 2 scores. The first 6 bars (first 4 in original piece) are almost unrecognisable, it has a similar rhythm but it doesn’t really have any similarities apart from that. 
 
