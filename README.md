@@ -161,7 +161,7 @@ For the first task we had to create a similarity matrix using python notebook wi
 
 The X and Y axes represent the track numbers and the colour represents the similarity between the tracks. 0 (dark blue) is the maximum similarity and around 2.5 (yellow) is the minimum similarity. Tracks 0-3 display high similarity with each other, this is expected as they are all classified as classical music. Tracks 4-6 are classified as rock music and as we can expect from this they are very similar to each other. Tracks 7-9 are tracks from my own theme. These tracks are also in the broad rock genre and we can see that these tracks are quite similar to each other but also to the other rock tracks. Tracks 4-9 are not very similar to the classical tracks 0-3. 
 
-After this, a polyphonic transcription was applied to the Musescore file from week 2. 
+For the next task, a polyphonic transcription was applied to the Musescore file from week 2. 
 
 ## Original Score
 ![Original score](data/Week%2010/original%20score%20image.png)
