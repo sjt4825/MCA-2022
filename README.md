@@ -78,7 +78,7 @@ The revised MEI data with the score can be found [here](data/Week%207/Starlight%
 
 The revised MEI data with the score can be found [here](week7meta.html). 
 
-I was not able to finish the formatting section of the task so the text is not in good shape. The score does not seem to appear on the webpage when the auth.uri attribute is included in the MEI file.
+I was not able to finish the formatting section of the task so the text is not in good shape. The score does not seem to appear on the webpage when the auth.uri attribute is included in the seriesStmt section ofthe MEI file.
 
 # Week 8
 [Back to top of page](https://sjt4825.github.io/MCA-2022/#lab-portfolio)
