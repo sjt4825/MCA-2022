@@ -94,16 +94,22 @@ Something Human (Acoustic) | Muse | Matthew Bellamy | All Rights Reserved WMG | 
 Starlight (live) | Muse | Matthew Bellamy | All Rights Reserved WMG | Alternative rock | [YouTube](https://www.youtube.com/watch?v=R6f_7G71p_w&ab_channel=Muse) | .mp3 | 2 | 48KHz | 128kb/s | 4:18
 
 
+
+
 ## Waveform and Spectrogram for Psycho
 
 ![Psycho Waveform](data/Week%208/Psycho%20waveform.png)
 ![Psycho Spectrogram](data/Week%208/Psycho%20spectrogram.png)
 
 
+
+
 ## Waveform and Spectrogram for Something Human
 
 ![Something human Waveform](data/Week%208/Something%20Human%20waveform.png)
 ![Something human Spectrogram](data/Week%208/Something%20Human%20spectrogram.png)
+
+
 
 
 ## Waveform and Spectrogram for Starlight
